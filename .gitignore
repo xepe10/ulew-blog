@@ -1,0 +1,12 @@
+# Files
+.DS_Store
+.env
+
+# Directories
+.vscode/
+cache/
+data/
+design/
+node_modules/
+themes/
+uploads/
