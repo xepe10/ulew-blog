@@ -89,7 +89,7 @@
     "striptags": "^2.2.1",
     "tmp": "0.0.31",
     "trim": "0.0.1",
-    "truncate-html": "^0.1.2",
+    "truncate-html": "^1.0.4",
     "undo-manager": "^1.0.5",
     "url": "^0.11.0"
   }
