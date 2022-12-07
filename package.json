@@ -63,7 +63,7 @@
     "dotenv": "^4.0.0",
     "dustjs-helpers": "^1.7.3",
     "dustjs-linkedin": "^2.7.5",
-    "express": "^4.14.0",
+    "express": "^4.17.3",
     "extend": "^3.0.0",
     "format-number": "^2.0.1",
     "fs": "0.0.1-security",
