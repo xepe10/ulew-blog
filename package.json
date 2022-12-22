@@ -62,7 +62,7 @@
     "del": "^2.2.1",
     "dotenv": "^4.0.0",
     "dustjs-helpers": "^1.7.3",
-    "dustjs-linkedin": "^2.7.5",
+    "dustjs-linkedin": "^3.0.0",
     "express": "^4.14.0",
     "extend": "^3.0.0",
     "format-number": "^2.0.1",
